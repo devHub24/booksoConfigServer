@@ -1,0 +1,5 @@
+customer:
+  message: "Hi this is from QA"
+  contactInfo:
+    name: "Santhosh"
+    email: "santhosh@gmail.com"

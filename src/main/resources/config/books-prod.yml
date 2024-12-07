@@ -1,0 +1,5 @@
+books:
+  message: "Hi there from Prod"
+  contactInfo:
+    name: "Santhosh"
+    email: "santhosh25@gmail.com"

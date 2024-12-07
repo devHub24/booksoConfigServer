@@ -1,0 +1,5 @@
+customer:
+  message: "Hi this is customer default"
+  contactInfo:
+    name: "Santhosh Kumar"
+    email: "santhosh@gmail.com"
